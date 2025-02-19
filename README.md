@@ -79,12 +79,11 @@ Welcome to the **Movie Recommendation System** repository! This project is a web
 ```
 movie-recommendation-system/
 │
-├── app.py                  # Streamlit web application
+├── app2.py                  # Streamlit web application
 ├── movie_list.pkl          # Pickle file containing movie data
 ├── similarity.pkl          # Pickle file containing similarity matrix
 ├── requirements.txt        # List of dependencies
 ├── README.md               # Project documentation
-└── artifacts/              # Directory for storing pickle files (optional)
 ```
 
 
